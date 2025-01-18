@@ -48,9 +48,6 @@
                 "location": "/hybris/config/environments/backoffice.properties"
             }
         ],
-        "solr": {
-            "location": "/hybris/config/solr"
-        }
     },
     "properties": [
         {
