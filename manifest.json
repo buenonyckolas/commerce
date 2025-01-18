@@ -48,10 +48,6 @@
                 "location": "/hybris/config/environments/backoffice.properties"
             }
         ],
-        "extensions": {
-            "location": "/hybris/config/localextensions.xml",
-            "exclude": []
-        },
         "solr": {
             "location": "/hybris/config/solr"
         }
