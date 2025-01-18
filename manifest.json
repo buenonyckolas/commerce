@@ -11,17 +11,6 @@
             "version": "2211.30"
         }
     ],
-    "storefrontAddons": [
-        {
-            "addons": [
-                "ordermanagementaddon"
-            ],
-            "storefronts": [
-                "yacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        }
-    ],
     "properties": [
         {
             "key": "lang.packs",
