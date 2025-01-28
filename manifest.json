@@ -3,7 +3,22 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "odata2webservices",
+        "integrationbackoffice",
+        "sapcoreaddon",
+        "sapcoreconfigurationbackoffice",
+        "sapmodelbackoffice",
+        "sapcustomerb2bbackoffice",
+        "ysapcpiomsfulfillment",
+        "sapcpiadapter",
+        "sapcpiproductexchange",
+        "sapcpicustomerexchange",
+        "sapcpicustomerexchangeb2b",
+        "sapcpiorderexchangeoms",
+        "sapcpiorderexchangeomsb2b",
+        "saporderexchangebackoffice",
+        "sapcoretest"
     ],
     "extensionPacks": [
         {
